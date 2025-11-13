@@ -1,0 +1,5 @@
+{
+  "name": "Pi Value Viewer",
+  "description": "A responsive React web application that displays the mathematical constant π (pi) up to a user-specified number of decimal places (0-100), featuring a modern, minimalistic design with light and dark modes.",
+  "requestFramePermissions": []
+}
