@@ -126,7 +126,8 @@ const App: React.FC = () => {
                 </main>
 
                 <footer className="absolute bottom-4 left-1/2 -translate-x-1/2 text-sm text-gray-500 dark:text-gray-400">
-                    Created by Nihan
+                    &copy; {new Date().getFullYear()} Pi Value Viewer. All rights reserved.
+                    <p>Developed by <a href="https://nihan-vp.me" target="_blank" rel="noopener noreferrer" className="text-gray-400 font-normal transition-all duration-300 hover:text-transparent hover:bg-clip-text hover:bg-gradient-to-r hover:from-blue-400 hover:to-teal-300">Nihan</a></p>
                 </footer>
             </div>
         </div>
