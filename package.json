@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/nihan-ali-vp/pivalue.nihan-vp.me.git",
+  "homepage": "https://github.com/nihan-ali-vp/pivalue.nihan-vp.me",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
